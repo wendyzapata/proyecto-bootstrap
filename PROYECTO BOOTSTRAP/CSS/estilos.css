@@ -9,3 +9,23 @@
 .slider img{
     height: 900px;
 }
+.con-texto .promo{
+    background-image: url(../IMAGENES/promo\ \(1\).png);
+    font-size: 16px;
+    padding: 7px 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.con-texto h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+.con-texto p{
+    font-size: 20px;
+    color: gray;
+}
